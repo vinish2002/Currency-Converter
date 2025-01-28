@@ -13,7 +13,8 @@ body {
   background-repeat: no-repeat;
   background-position: center center;
   backdrop-filter: blur(15px);
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  /* font-family: Georgia, 'Times New Roman', Times, serif; */
+  font-family: "Audiowide", sans-serif;
 }
 
 .wrapper {
@@ -23,7 +24,7 @@ body {
   max-width: 450px;
   width: 100%;
 
-  border-radius: 30px;
+  border-radius: 50px;
   /* background: linear-gradient(145deg, #cacaca, #f0f0f0); */
   box-shadow: 5px 5px 10px #bebebe,
     -5px -5px 10px #fff;
@@ -107,6 +108,7 @@ button {
   font-size: 16px;
   border: 0;
   border-radius: 10px;
+  font-family: "Audiowide", sans-serif;
 }
 
 p.output {
