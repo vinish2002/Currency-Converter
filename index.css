@@ -42,7 +42,7 @@ h2 {
   font-size: 1.5rem;
 }
 
-.currc-input {
+.curnc-input {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -61,7 +61,7 @@ h2 {
 
 }
 
-/* .currc-input label {
+/* .curnc-input label {
   font-weight: 400;
   font-size: 18px;
   text-transform: uppercase;
