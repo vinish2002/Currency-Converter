@@ -1,29 +1,31 @@
 body {
   height: 100vh;
-  color: #000;
+  color: #fff;
   display: flex;
   justify-content: center;
   align-items: center;
   overflow: hidden;
   /* background: conic-gradient(from 90deg at 50% 100%, #00595b, #005b5c, #006767, #008b7f, #16c99d, #48efa8, #59fdab, #5cffab); */
-  background-image: url('./assets/bg6.jpg');
+  background-image: url('./assets/bg8.avif');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
+  backdrop-filter: blur(15px);
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .wrapper {
   text-align: center;
-  /* background: rgba(0, 0, 0, 0.3); */
+  background: rgba(0, 0, 0, 0.3);
   padding: 30px;
   max-width: 430px;
   width: 100%;
 
   border-radius: 30px;
-  background: linear-gradient(145deg, #cacaca, #f0f0f0);
-  box-shadow: 10px 10px 60px #bebebe,
-    -10px -10px 60px #fff;
+  /* background: linear-gradient(145deg, #cacaca, #f0f0f0); */
+  box-shadow: 5px 5px 10px #bebebe,
+    -5px -5px 10px #fff;
+  filter: drop-shadow(0 0 50px rgb(0, 0, 0));
 }
 
 h2 {
