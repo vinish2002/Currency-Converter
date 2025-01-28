@@ -12,6 +12,12 @@ A simple yet powerful **Currency Converter** designed and developed using **HTML
 ## Demo 🎥
 Check out the live demo here: [https://curr-money-converter.netlify.app/]
 
+## Image Preview 📸
+
+Here's a preview of what the app looks like:
+
+![image](![currCon](https://github.com/user-attachments/assets/c40df539-cd26-48d3-ac3b-1fc5de732a9e))
+
 ## How It Works 🔧
 1. **Input Field**: Enter the amount you want to convert.
 2. **Currency Dropdowns**: Select the current currency and the currency you want to convert to.
