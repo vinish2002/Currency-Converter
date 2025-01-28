@@ -42,7 +42,7 @@ h2 {
   font-size: 1.5rem;
 }
 
-.currency-input {
+.currc-input {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -61,7 +61,7 @@ h2 {
 
 }
 
-/* .currency-input label {
+/* .currc-input label {
   font-weight: 400;
   font-size: 18px;
   text-transform: uppercase;
