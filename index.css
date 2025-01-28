@@ -13,7 +13,6 @@ body {
   background-repeat: no-repeat;
   background-position: center center;
   backdrop-filter: blur(15px);
-  /* font-family: Georgia, 'Times New Roman', Times, serif; */
   font-family: "Audiowide", sans-serif;
 }
 
@@ -53,6 +52,7 @@ h2 {
     margin-top: 3px;
     outline: none;
     border: 1px solid #ccc;
+    text-align: center;
     border-radius: 5px;
     font-size: 16px;
     border-radius: 10px;
